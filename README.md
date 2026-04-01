@@ -18,8 +18,6 @@ Highly analytical technical professional with a deep background in **Mathematics
 
 ---
 *Targeting $125k+ opportunities in AI Engineering, Fintech, or Quantitative Strategy.*
-## Hi there 👋
-
 <!--
 **michaelmillshealy716-sudo/michaelmillshealy716-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
