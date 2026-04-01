@@ -3,9 +3,7 @@
 ### **Bridging 25 Years of Value Investing with Modern AI Systems**
 **Jacksonville, FL**
 
-Highly analytical technical professional with a deep background in **Mathematics** and **Graham-Dodd-Newman** fundamental analysis. Currently specializing in the development of autonomous AI agents for high-accuracy financial data ingestion and intrinsic value modeling.
-
----
+AI Agentic Engineer | 25+ Years Graham-Dodd Value Investing | Math Background | Engineering high-precision financial agents & quantitative strategies.
 
 ## 💎 The Strategic Edge
 * **Institutional Logic:** Decades of experience navigating market cycles with a focus on "Margin of Safety" and fundamental asset protection.
