@@ -1,52 +1,53 @@
 # Michael Healy | Lead Quant Strategist & Agentic Engineer 🤖📈
 
-### **Bridging Institutional Capital Logic with High-Dimensional Autonomous Execution**
+### **High-Frequency Event-Driven Execution & Multi-Agent Market Architecture**
 **Jacksonville, FL**
 
-Founder and Lead AI Architect at **Healy Vector Labs**. I build low-latency multi-agent frameworks, custom algorithmic trading pipelines, and robust mathematical forecasting engines designed to extract structural alpha from live market regimes. My architecture combines a deep foundational background in mathematics with decades of capital allocation experience to engineer un-bypassable execution systems.
+Founder and Lead AI Architect at **Healy Vector Labs**. I build low-latency multi-agent frameworks, custom algorithmic trading pipelines, and robust mathematical forecasting engines designed to extract structural alpha from live market regimes. My current architecture centers on an integrated, event-driven quantitative workstation executing live capital across prediction and options markets.
 
 ---
 
 ## 💎 The Strategic Edge
 
-*   **Mathematical Rigor:** Leveraging a formal background in pure mathematics to translate complex predictive signal processing into high-precision, production-grade software.
-*   **Agentic Orchestration:** Engineering highly scalable multi-agent systems capable of parsing immense real-time token volumes, maintaining complex state variables, and conducting live telemetry auditing across parallel environments.
-*   **Asymmetric Risk Management:** Applying institutional-grade risk models and absolute price floors natively within execution layers to structurally mitigate tail-risk and block toxic asymmetric entry conditions.
+*   **Asymmetric Risk Controls:** Enforcing automated, un-bypassable entry floors directly within execution pipes to systematically block toxic market entries and toxic asymmetric fills.
+*   **Agentic System Orchestration:** Orchestrating hundreds of local background processes handling real-time telemetry, state monitoring, and automated order-routing loops.
+*   **Mathematical Rigor:** Translating advanced predictive frameworks, including volatility-regime modeling and multi-frequency signal processing, into resilient production logic.
 
 ---
 
-## 🚀 Active Production Suites
+## ⚡ Active Core Infrastructure: hvl-workstation
 
-### [Veritas V2.2 Quantitative Market Engine](https://github.com/michaelmillshealy716-sudo/VERITAS-engine)
-My flagship signal processing and algorithmic risk management framework. 
-*   Utilizes **3rd-order Taylor Series expansions** for dynamic polynomial trend and volatility forecasting.
-*   Implements **Chinese Remainder Theorem (CRT) logic** structures within core modular arithmetic pipelines to process multi-frequency data streams safely.
-*   Features native, low-latency execution test suites mapped to live institutional order-routing protocols.
+The central engine room for my quantitative execution pipelines. This unified repository orchestrates live trading pipelines, asynchronous communication networks, and rigorous guardrail verification.
 
-### [FASE: Functional Agentic Sentiment Engine](https://github.com/michaelmillshealy716-sudo/FASE-Functional-Agentic-Sentiment-Engine)
-A live operational market monitor and telemetry HUD designed to capture short-term kinetic alpha.
-*   Orchestrates autonomous web-scraping and unstructured data-parsing pipelines across global sentiment vectors.
-*   Dispatches instantaneous, low-latency price alert arrays and regime classification metrics back to web infrastructure.
+### 🔌 Live Exchange Bridges & Execution Layers
+*   **Kalshi V2 Order Routing (`test_kalshi_live_execution.py`):** Native live execution layer handling programmatic order routing, position state verification, and automated event market interaction.
+*   **Robinhood MCP Execution Listener (`test_robinhood_mcp_execution_listener.py`):** Model Context Protocol (MCP) driven streaming listeners engineered to sweep, process, and execute approved option backlogs with zero manual friction.
+*   **Systemic Gateway Logic (`bridge.sh`):** Low-latency shell architecture managing structural cross-engine routing between prediction market liquidity pools and traditional options environments.
 
-### [Intrinsic Value Screener Engine](https://github.com/michaelmillshealy716-sudo/intrinsic-value-screener-engine)
-An automated asset-valuation architecture that modernizes classic asset-protection philosophies.
-*   Deploys targeted financial data agents to parse corporate balance sheets and calculate granular Net-Net Working Capital (NNWC) baselines.
-*   Combines fundamental margin-of-safety screeners with algorithmic entry/exit timing models to eliminate human bias from portfolio selection.
+### 🛡️ Risk Mitigation & Guardian Pipes
+*   **Un-Bypassable Entry Floors (`test_engine_pipes.py` / `ignition.py`):** Hardcoded execution guardrails forcing strict minimum edge thresholds (e.g., $0.15–$0.20 absolute floors) to isolate capital from toxic market pricing windows.
+*   **Shadow Management & Counters (`run_shadow_manager.py`):** Real-time automated auditing pipeline tracking live trade counters and journaling logs to ensure total execution state consistency.
+*   **Temporal Telemetry Auditing (`audit_live_telemetry.py`):** Isolated, read-only monitoring layer verifying execution safety constraints across live trading sessions.
+
+### 📊 Forecasting & Asynchronous Core
+*   **Regime-Adaptive Forecasting (`test_btc_taylor_forecast.py`):** Predictive models that dynamically adapt VWAP z-scores based on current asset volatility regimes.
+*   **Low-Latency Message Backbone (`benchmark_event_bus.py`):** High-throughput internal event bus benchmarked for rapid event dispatching and broad-spectrum theta discovery acceleration.
 
 ---
 
-## 🛠️ Technical Stack & Infrastructure
+## 🛠️ Technical Stack & Production Environment
 
-*   **Languages:** Python, SQL, Shell Scripting, Advanced Markdown
-*   **Frameworks & Core Tools:** Multi-Agent Systems, Model Context Protocol (MCP) listeners, Vector Databases, Git/SSH Version Control
-*   **Environments & Deployment:** Terminal/Termux Sandbox Environments, Private Production Workstations (`HVL_WORKSTATION`), High-Volume API Integrations (Kalshi, Robinhood Exchange Bridges)
+*   **Execution Infrastructure:** Core Local Workstation Terminal Sandbox (`HVL_WORKSTATION`), Headless Automation Scripts, Git/SSH Version Control
+*   **Languages & Layers:** Python, Shell Scripting (Bash), SQL, Real-Time Data Streaming Configurations
+*   **Integrated Protocols:** Model Context Protocol (MCP), Distributed Event Buses, Asynchronous Exchange APIs (Kalshi REST/Websocket, Robinhood Bridges)
 
 ---
 
 ## 📬 Connect
 
-I architect high-performance computing pipelines, quantitative trading engines, and specialized agent networks. For senior engineering engagements, systemic consulting, or enterprise-tier architectural collaboration, reach out directly:
+I architect high-performance computing pipelines, live exchange integration bridges, and scalable multi-agent systems. For enterprise architectural collaboration, system optimization, or high-leverage quant engineering inquiries, contact the lab:
 
 *   **Corporate Email:** mhealy@healyvectorlabs.com
+*   **Cursor Dev Environment:** [cursor.com/@vectorvandals](https://cursor.com/@vectorvandals)
 *   **Enterprise Hub:** [healyvectorlabs.com](https://healyvectorlabs.com)
-*   **Professional Identity:** [linkedin.com/in/michael-mills-healy](https://www.linkedin.com/in/michael-mills-healy)
+*   **Professional Identity:** [linkedin.com/in/michaelmillshealy716](https://www.linkedin.com/in/michaelmillshealy716)
